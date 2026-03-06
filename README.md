@@ -3,7 +3,7 @@
     <img src="varun template.gif" width="100%" alt="Void Haeven" />
   </kbd>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://raw.githubusercontent.com/v0idheaven/v0idheaven/main/black-line.gif" width="1000">
 <div align="center">
 <table style="border:none; border-collapse:collapse;">
 <tr>
