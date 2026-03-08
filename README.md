@@ -46,20 +46,25 @@
 │   BTech CSE & AI/ML Student
 │
 ├── skills
-│   Languages  → Python
-│   Frontend   → HTML, CSS, JS, React
-│   Backend    → Node.js, MongoDB
+│   Languages  → Python, JavaScript
+│   Frontend   → HTML, CSS, JS, React, Tailwind CSS
+│   Backend    → Node.js, Express, MongoDB
+│   Database   → MySQL, Firebase, Firestore
+│   ML/AI      → NumPy, Pandas, Data Visualisation
 │   Creative   → DaVinci Resolve
 │
 ├── building
 │   → Web & Mobile Applications
+│   → CreatorStart (Content Planning Platform)
 │
 ├── learning
 │   → Backend (Node.js)
 │   → Go
+│   → Machine Learning
 │
 ├── open_source
-│   → GSOC
+│   → ESP-Website (Learning Unlimited) - Bug fixes, Security, Accessibility
+│   → GSOC Aspirant
 │   → Always looking for more programs...
 │
 ├── outside
