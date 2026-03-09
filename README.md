@@ -70,6 +70,7 @@
 ├── outside
 │   → Video Editing (DaVinci Resolve)
 │   → Watching Anime
+│   → Listening Music
 │
 └──
 </pre>
