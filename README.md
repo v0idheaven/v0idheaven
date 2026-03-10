@@ -81,6 +81,3 @@
 
 <img src="https://raw.githubusercontent.com/v0idheaven/v0idheaven/main/gray-line.gif" width="100%"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=v0idheaven&hide_border=false&border=30363D&background=161B22&ring=79C0FF&fire=79C0FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=79C0FF&sideLabels=8B949E&dates=6E7681&stroke=30363D&card_width=650&border_radius=6" alt="GitHub Streak"/>
-</div>
