@@ -78,3 +78,9 @@
 <div align="center">
 <i>"I am something, But I don't know."</i>
 </div>
+
+<img src="https://raw.githubusercontent.com/v0idheaven/v0idheaven/main/gray-line.gif" width="100%"/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=v0idheaven&theme=dark&hide_border=true&background=161B22&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+</div>
