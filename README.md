@@ -58,14 +58,14 @@
 │   → CreatorStart (Content Planning Platform)
 │
 ├── learning
-│   → Backend (Node.js)
+│   → Backend (Node.js, express.js)
 │   → Go
 │   → Machine Learning
 │
 ├── open_source
 │   → ESP-Website (Learning Unlimited) - Bug fixes, Security, Accessibility
 │   → GSOC Aspirant
-│   → Always looking for more programs...
+│   → Always looking for more programs....
 │
 ├── outside
 │   → Video Editing (DaVinci Resolve)
